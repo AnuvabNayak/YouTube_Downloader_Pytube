@@ -6,6 +6,7 @@ To Use the Downloader:
 
 1. Download and Extract the files.
 2. Open the downloaded folder in your Terminal.
-3. Type this in your Terminal to Download any desired Video
+3. Go to any video you like and copy its URL.
+4. Type the below command in your Terminal to Download the Video
 
-# python YtDownloader.py "LINK_OF_THE_VIDEO"
+# python YtDownloader.py "COPIED_LINK_OF_THE_VIDEO"
